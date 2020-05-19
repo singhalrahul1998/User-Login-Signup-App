@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserLoginApp</string>
+    <string name="welcome_to_synchem_technologies">Welcome to Synchem Technologies</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="not_registered">not registered</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="cnf_register">Register</string>
+    <string name="registered">registered?</string>
+
+</resources>
